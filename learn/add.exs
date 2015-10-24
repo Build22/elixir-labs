@@ -5,3 +5,5 @@ defmodule Mathex do
 end
 
 IO.inspect Mathex.add(5)
+
+IO.puts "hello world!" |> String.upcase
