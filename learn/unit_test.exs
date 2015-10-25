@@ -11,7 +11,7 @@ defmodule MyTest do
     refute 1 + 1 == 3
   end
 
-  # Test macro also accepts a macro
+  # Test macro also accepts an atom as an argument
   test :assert_raise do
     assert_raise ArithmeticError, fn ->
       1 + "x"
