@@ -71,5 +71,5 @@ defmodule LearnList do
     assert some == ["Jade Nagaraja", "Pasta Nagaraja", "Rashanni Nagaraja", "Robin Nagaraja"]
   end
 
-  # More digging at https://github.com/Build22/30-days-of-elixir/blob/master/04-list.exs#L79-L105
+  # More digging [here](https://github.com/Build22/30-days-of-elixir/blob/master/04-list.exs#L79-L105)
 end
